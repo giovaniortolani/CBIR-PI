@@ -25,3 +25,9 @@ O programa foi compilado utilizando python 2.7.6 em ambiente Ubuntu 14.04 com a 
             
 *Em caso de dúvida, utilizar o comando:
 `python <corel10k.py ou indexGenerator.py> -h`
+
+Referência: 
+Adrian Rosebrock. The complete guide to building an image search engine
+with Python and OpenCV:
+http://www.pyimagesearch.com/2014/12/01/complete­guide­building­image­se
+arch­engine­python­opencv/
