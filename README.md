@@ -29,5 +29,4 @@ O programa foi compilado utilizando python 2.7.6 em ambiente Ubuntu 14.04 com a 
 Referência: 
 Adrian Rosebrock. The complete guide to building an image search engine
 with Python and OpenCV:
-http://www.pyimagesearch.com/2014/12/01/complete­guide­building­image­se
-arch­engine­python­opencv/
+http://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/
